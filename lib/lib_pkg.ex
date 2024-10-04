@@ -13,6 +13,6 @@ defmodule LibPkg do
 
   """
   def hw do
-    "hello from lib_pkg v 0.1.0"
+    "hello from lib_pkg v0.2.0"
   end
 end
